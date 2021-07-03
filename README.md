@@ -3,7 +3,7 @@ Conversions from WOCE Section Names to expocodes used in GOSHIP and GLODAP
 
 Each $SEC.txt file contains nominal years for an occupation, as well as expocodes
 for both GO-SHIP and GLODAP. GO-SHIP expocodes have been obtained from [CCDHO](https://cchdo.ucsd.edu/)
-and GLODAP expocodes obtained from [NCEI](https://www.ncei.noaa.gov/access/ocean-carbon-data-system/oceans/RepeatSections/)
+and GLODAP expocodes obtained from [NCEI](https://www.ncei.noaa.gov/access/ocean-carbon-data-system/oceans/RepeatSections/).
 These codes occasionally differ: this project is an attempt to categorise these
 differences.
 
