@@ -18,3 +18,7 @@ been performed to account for partial occupations or cruises which took data on
 more than one WOCE hydrographic section. These issues will be resolved over time.
 For now these data should be treated as a starting point rather than a canonical
 guide.
+
+At present, only occupations included within the GLODAP dataset are included, 
+whether an occupation is included within GO-SHIP or not. This will change going 
+forwards to include occupations included within GO-SHIP datasets but not GLODAP.
